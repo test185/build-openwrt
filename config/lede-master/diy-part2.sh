@@ -36,7 +36,7 @@ svn co https://github.com/ysx88/openwrt-packages/tree/master openwrt-packages/lu
 svn co https://github.com/ysx88/openwrt-packages/tree/master openwrt-packages/mosdns
 svn co https://github.com/ysx88/openwrt-packages/tree/master openwrt-packages/luci-app-adguardhome
 svn co https://github.com/ysx88/openwrt-packages/tree/master openwrt-packages/helloworld
-svn co https://github.com/ysx88/openwrt-packages/tree/master openwrt-packages/luci-app-autorepeater
+# svn co https://github.com/ysx88/openwrt-packages/tree/master openwrt-packages/luci-app-autorepeater
 
 # Fix runc version error
 # rm -rf ./feeds/packages/utils/runc/Makefile
