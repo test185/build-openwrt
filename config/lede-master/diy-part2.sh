@@ -42,7 +42,7 @@ svn co https://github.com/ophub/luci-app-amlogic/trunk/luci-app-amlogic package/
 svn co https://github.com/ophub/luci-app-amlogic/trunk/luci-app-amlogic package/luci-app-autoreboot
 svn co https://github.com/ophub/luci-app-amlogic/trunk/luci-app-amlogic package/luci-app-wireguard
 svn co https://github.com/ophub/luci-app-amlogic/trunk/luci-app-amlogic package/luci-app-webadmin
-svn co https://github.com/ophub/luci-app-amlogic/trunk/luci-app-amlogic package/luci-app-watchcat
+# svn co https://github.com/ophub/luci-app-amlogic/trunk/luci-app-amlogic package/luci-app-watchcat
 svn co https://github.com/ophub/luci-app-amlogic/trunk/luci-app-amlogic package/luci-app-advanced
 svn co https://github.com/ophub/luci-app-amlogic/trunk/luci-app-amlogic package/luci-app-mosdns
 svn co https://github.com/ophub/luci-app-amlogic/trunk/luci-app-amlogic package/luci-app-ttyd
